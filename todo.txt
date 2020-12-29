@@ -1,0 +1,17 @@
+amplify 
+angular
+aggrid -- real time pnl position, order entry, market making fx
+backend
+configure cicd
+p2p
+crypto
+nt8 tick server -- json -- sql and nosql
+fx broker
+vr
+os commandline
+grid editor
+ide 
+minecraft prototype?
+unity torque game engine houdini
+
+
