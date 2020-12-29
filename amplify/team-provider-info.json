@@ -10,6 +10,11 @@
       "StackName": "amplify-gambit-dev-211134",
       "StackId": "arn:aws:cloudformation:us-east-1:602174762777:stack/amplify-gambit-dev-211134/2e4c27c0-497b-11eb-8f2d-0eaa1a5b8293",
       "AmplifyAppId": "d2i186ed745sjv"
+    },
+    "categories": {
+      "auth": {
+        "cognito05b95edc": {}
+      }
     }
   }
 }
